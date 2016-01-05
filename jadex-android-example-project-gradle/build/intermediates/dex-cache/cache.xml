@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-android-xmlpull-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c0e80cb61097c6a258584ecd15331c58624b8b4d">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-android-xmlpull-3.0-SNAPSHOT-2574286e1224448bad49ed133e10289cb50cef4c.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-kernel-bpmn-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="93556d1432174d749ae58b60f273f8ba41a2e41e">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-kernel-bpmn-3.0-SNAPSHOT-e5c1bfda98226a4c5bfc4ee5574b118ea4deb905.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-tools-base-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="aec24fabcc25dc445f2e9e02bba877188a902796">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-tools-base-3.0-SNAPSHOT-bfeac467ef00f21312974fd4d5253d9674d34d45.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-kernel-micro-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5f8acc99e3bbe14a8c93aa4f452c9077298ddf10">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-kernel-micro-3.0-SNAPSHOT-67351bb44c2cfbea26afb74d83f8cc49d80b06ca.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\bcprov-jdk15on-1.52.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="88a941faf9819d371e3174b5ed56a3f3f7d73269">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\bcprov-jdk15on-1.52-88ebaedcc5bf7051410e202a22e2347bddf15a67.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\javax.ws.rs-api-2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61f0983eb190954ccdede31e786a9e0bd9767c4a">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\javax.ws.rs-api-2.0-bed6f7dd76903d5cc62215a09cd7a02a3ff8401c.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\exploded-aar\jadex-android-example-project-gradle\jadex-platform-extension-webservice-android-3.0-SNAPSHOT\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="aab851f6b069a955ee8552e350bfa50a82f153c7">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\classes-08684448ff537cd9567d8d4ad9970082c6011495.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\classes-603ca8a47fcd8a086cb1c733d983665f5733c0d0.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-platform-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="39f38c99068398f5c116c628a883a05e41bab5ea">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-platform-3.0-SNAPSHOT-e2ee996be26833767eae22dd3729a38b36bcd583.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-android-antlr-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="23b945fb99d99e68b205a1cdbfa83278cfcb079d">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-android-antlr-3.0-SNAPSHOT-03ce060fe47d461578d4b0cae7c74eddbc84f011.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-kernel-bdiv3-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fe78af03a44ea7cc59ed2b56d9d3ca691e3267e7">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-kernel-bdiv3-3.0-SNAPSHOT-418e801172bf43deeef64e60bc2fe1fc640c5115.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-kernel-base-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="141de62a68cb778e7f694a9cbaacc04755a9bbd9">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-kernel-base-3.0-SNAPSHOT-9e026bc79eb95ffc9c86ebcfcb678c89de6e0d59.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-rules-eca-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="173454c01eaec79c5f02d092d009eaabaa90dfac">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-rules-eca-3.0-SNAPSHOT-efb03f7c9ba9278d9795f7d65eafdedb8445ca57.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\exploded-aar\jadex-android-example-project-gradle\jadex-platform-android-3.0-SNAPSHOT\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="055b207a675635238ddb165d67d3c9e668f624b4">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\classes-ddc0a839fc44ad77bfe59e69aa9ef4836ed002de.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\exploded-aar\jadex-android-example-project-gradle.libraries\opencv\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7f6c1938421c4847b6f0a0fee793969d1552db0c">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\classes-78846b834dbe5925da7e577a8abe3f761244544e.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-javaparser-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0094133a517fc8915a172961b48c0e57cb3ca4a7">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-javaparser-3.0-SNAPSHOT-06fa6882661bb4835105d54d0ec6a590cb42e9e3.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\exploded-aar\jadex-android-example-project-gradle\jadex-android-commons-3.0-SNAPSHOT\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5480322145b8ff2982653bc6a782203e33c8591e">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\classes-ee6629c9bdf4e40ead942e43d1b71c5d5fafd053.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-commons-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d67dfb8aba26b6b24e7085e44c67293f0a103a85">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-commons-3.0-SNAPSHOT-aab0fbbfa704a986b90e273aaf1305b9d4119a78.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-bridge-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c2f10677f44258e2bf4ed7e40a60b83fce6c6760">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-bridge-3.0-SNAPSHOT-eb9dc9a4d206445426dff732a41487344619ac94.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\exploded-aar\jadex-android-example-project-gradle\jadex-runtimetools-android-3.0-SNAPSHOT\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3fa345698b03cfe274614aaa7d7eba2057c201f6">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\classes-51316c93d261ebb8deeeba973c5a08f6916c7d53.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-platform-extension-webservice-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="977bc46bd3ca84897553219daa6ad1d36bf41c58">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-platform-extension-webservice-3.0-SNAPSHOT-0cebf9d938d3da8d1aeb8bc6634a556e1d3080b2.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-kernel-component-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="88cf379b4e142052ef440301f8960d71cfed8126">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-kernel-component-3.0-SNAPSHOT-1cc0e401a83b8be890a4c81c8e13443ad0cc7b11.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-xml-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a902ef9a73324bf814c202041d5c9b465f6ef94b">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-xml-3.0-SNAPSHOT-045b65f4696531fe76cbbfdefc277876629479af.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\classes-2efe209198cbad0de378735237116545422bf098.jar" />
+    </item>
+    <item
+        jar="C:\Users\nicop_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-cfec09eb005333ad7000b38fd967923b5a2fe9a4.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-model-bpmn-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="bae4935f08c2bb2df40f1520813f300bcad57318">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-model-bpmn-3.0-SNAPSHOT-dda76cb4d99fd8a2e9226a907589ca8088c1abed.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\libs\jadex-rules-3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b78b499b3db6bb955562fcb10f8a7f30106ac59e">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\jadex-rules-3.0-SNAPSHOT-20391d75151aa33965def84a7c2d0d19d26db741.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-50dd5fc88009c1ea654ada02dd438ad8be9e9607.jar" />
+    </item>
+    <item
+        jar="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\exploded-aar\jadex-android-example-project-gradle\jadex-android-platformclient-3.0-SNAPSHOT\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ad7df34a4e33d05c9ebc2c6d0ba26e8fdbdf93db">
+        <dex dex="C:\Android_Entwicklung\jadex-android-example-project-gradle\build\intermediates\pre-dexed\debug\classes-842e098627c49d332704eb4944d3ef086844cf62.jar" />
+    </item>
+
+</items>

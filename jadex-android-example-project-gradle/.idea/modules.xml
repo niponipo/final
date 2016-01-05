@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jadex-android-bluetooth-3.0-SNAPSHOT/jadex-android-bluetooth-3.0-SNAPSHOT.iml" filepath="$PROJECT_DIR$/jadex-android-bluetooth-3.0-SNAPSHOT/jadex-android-bluetooth-3.0-SNAPSHOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jadex-android-commons-3.0-SNAPSHOT/jadex-android-commons-3.0-SNAPSHOT.iml" filepath="$PROJECT_DIR$/jadex-android-commons-3.0-SNAPSHOT/jadex-android-commons-3.0-SNAPSHOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jadex-android-example-project-gradle.iml" filepath="$PROJECT_DIR$/jadex-android-example-project-gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jadex-android-platformclient-3.0-SNAPSHOT/jadex-android-platformclient-3.0-SNAPSHOT.iml" filepath="$PROJECT_DIR$/jadex-android-platformclient-3.0-SNAPSHOT/jadex-android-platformclient-3.0-SNAPSHOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jadex-platform-android-3.0-SNAPSHOT/jadex-platform-android-3.0-SNAPSHOT.iml" filepath="$PROJECT_DIR$/jadex-platform-android-3.0-SNAPSHOT/jadex-platform-android-3.0-SNAPSHOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jadex-platform-extension-webservice-android-3.0-SNAPSHOT/jadex-platform-extension-webservice-android-3.0-SNAPSHOT.iml" filepath="$PROJECT_DIR$/jadex-platform-extension-webservice-android-3.0-SNAPSHOT/jadex-platform-extension-webservice-android-3.0-SNAPSHOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jadex-runtimetools-android-3.0-SNAPSHOT/jadex-runtimetools-android-3.0-SNAPSHOT.iml" filepath="$PROJECT_DIR$/jadex-runtimetools-android-3.0-SNAPSHOT/jadex-runtimetools-android-3.0-SNAPSHOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/opencv/opencv.iml" filepath="$PROJECT_DIR$/libraries/opencv/opencv.iml" />
+    </modules>
+  </component>
+</project>

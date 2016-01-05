@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('jadex-android-platformclient-3.0-SNAPSHOT.aar'))

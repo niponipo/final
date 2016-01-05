@@ -1,0 +1,1 @@
+include ':jadex-android-commons-3.0-SNAPSHOT', ':jadex-platform-android-3.0-SNAPSHOT', ':jadex-android-bluetooth-3.0-SNAPSHOT', ':jadex-android-platformclient-3.0-SNAPSHOT', ':jadex-platform-extension-webservice-android-3.0-SNAPSHOT', ':jadex-runtimetools-android-3.0-SNAPSHOT', ':libraries:opencv'

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jadex-xml-3.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jadex-xml-3.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

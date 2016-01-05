@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jadex-runtimetools-android-3.0-SNAPSHOT-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/jadex-android-example-project-gradle/jadex-runtimetools-android-3.0-SNAPSHOT/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/jadex-android-example-project-gradle/jadex-runtimetools-android-3.0-SNAPSHOT/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

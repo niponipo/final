@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/jadex-android-bluetooth-3.0-SNAPSHOT" />
+            <option value="$PROJECT_DIR$/jadex-android-commons-3.0-SNAPSHOT" />
+            <option value="$PROJECT_DIR$/jadex-android-platformclient-3.0-SNAPSHOT" />
+            <option value="$PROJECT_DIR$/jadex-platform-android-3.0-SNAPSHOT" />
+            <option value="$PROJECT_DIR$/jadex-platform-extension-webservice-android-3.0-SNAPSHOT" />
+            <option value="$PROJECT_DIR$/jadex-runtimetools-android-3.0-SNAPSHOT" />
+            <option value="$PROJECT_DIR$/libraries" />
+            <option value="$PROJECT_DIR$/libraries/opencv" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

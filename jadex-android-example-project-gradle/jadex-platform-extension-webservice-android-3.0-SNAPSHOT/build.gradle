@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('jadex-platform-extension-webservice-android-3.0-SNAPSHOT.aar'))
